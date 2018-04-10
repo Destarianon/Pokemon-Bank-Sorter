@@ -14,4 +14,4 @@ Simple utility to help sort pokemon into pokemon bank boxes, ordered by the nati
     * exception for nidoran. male is "nidoranm", female is "nidoranf"
 
 ### Screenshots
-[![N|Solid](https://cdn.discordapp.com/attachments/433410522424147968/433413153347338258/screencap.png)]
+[![N|Solid](https://cdn.discordapp.com/attachments/433410522424147968/433413153347338258/screencap.png)
